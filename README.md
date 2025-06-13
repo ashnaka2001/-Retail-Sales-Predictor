@@ -11,27 +11,27 @@ Variable	Description
 
 • Item_Identifier	: Unique product ID
 
-•Item_Weight	: Weight of the product
+• Item_Weight	: Weight of the product
 
-•Item_Fat_Content : Indicates whether the product is low fat or regular
+• Item_Fat_Content : Indicates whether the product is low fat or regular
 
-•Item_Visibility	: Percentage of total display area of all products allocated to this product in the store
+• Item_Visibility	: Percentage of total display area of all products allocated to this product in the store
 
 •Item_Type	: Category to which the product belongs (e.g., Dairy, Snacks, Household)
 
-•Item_MRP	: Maximum Retail Price (list price) of the product
+• Item_MRP	: Maximum Retail Price (list price) of the product
 
 •Outlet_Identifier	: Unique store ID
 
-•Outlet_Establishment_Year	: The year the store was established
+• Outlet_Establishment_Year	: The year the store was established
 
-•Outlet_Size	: Physical size of the store (e.g., Small, Medium, High)
+• Outlet_Size	: Physical size of the store (e.g., Small, Medium, High)
 
-•Outlet_Location_Type	: Type of city in which the store is located (e.g., Tier 1, Tier 2)
+• Outlet_Location_Type	: Type of city in which the store is located (e.g., Tier 1, Tier 2)
 
-•Outlet_Type	:Type of outlet (e.g., Grocery Store, Supermarket Type1/2/3)
+• Outlet_Type	:Type of outlet (e.g., Grocery Store, Supermarket Type1/2/3)
 
-•Item_Outlet_Sales	: Target variable — Sales of the product in the particular store
+• Item_Outlet_Sales	: Target variable — Sales of the product in the particular store
 
 # 📌 Project Overview
 # Goal:
@@ -50,13 +50,13 @@ Hyperparameter tuning
 Model performance evaluation (MAE, MSE, RMSE, R²)
 
 # 🔧 Technologies Used
-•seaborn
+• Seaborn
 
-•matplotlib
+• Matplotlib
 
-•numpy
+• Numpy
 
-•scikit-learn
+• Scikit-learn
 
 •pandas
 
