@@ -9,7 +9,7 @@ The dataset contains both product-level and outlet-level features that influence
 
 Variable	Description
 
-•Item_Identifier	: Unique product ID
+• Item_Identifier	: Unique product ID
 
 •Item_Weight	: Weight of the product
 
