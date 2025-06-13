@@ -8,6 +8,7 @@ By analyzing both product and outlet-level characteristics, the project aims to 
 The dataset contains both product-level and outlet-level features that influence retail sales. Below is a description of each variable:
 
 Variable	Description
+
 •Item_Identifier	: Unique product ID
 
 •Item_Weight	: Weight of the product
